@@ -2,6 +2,7 @@
   "name": "loan-sense",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sreeyachatterjee.github.io/LoanSense",
   "type": "module",
   "scripts": {
     "dev": "vite",
