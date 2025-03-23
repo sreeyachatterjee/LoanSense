@@ -1,7 +1,3 @@
-Got it! Here's an enhanced version of your **README** with emojis and a more engaging structure. 🚀  
-
----
-
 # 🚀 LoanSense - AI Loan Guidance 💰  
 
 LoanSense is an AI-powered loan guidance assistant that helps users navigate loan eligibility and options in both **Hindi 🇮🇳 and English 🇬🇧**. It features an **interactive chatbot 🤖, user authentication 🔑, and a modern, responsive UI 🎨.**  
